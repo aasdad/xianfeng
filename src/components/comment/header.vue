@@ -18,8 +18,6 @@
 					      >  
 					    </el-option>
 					  </el-select>
-				      
-					
 					</div>	
 					<div class="right">
 					<el-input  placeholder="搜索" icon="search" v-model="input2" :on-icon-click="search">
